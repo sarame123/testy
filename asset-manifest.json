@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Yummy-Website.git/static/css/main.b611a4c5.css",
+    "main.js": "/Yummy-Website.git/static/js/main.44bd0a39.js",
+    "static/js/787.3eecfc5e.chunk.js": "/Yummy-Website.git/static/js/787.3eecfc5e.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Yummy-Website.git/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/Yummy-Website.git/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/Yummy-Website.git/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/Yummy-Website.git/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/Yummy-Website.git/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/logo.png": "/Yummy-Website.git/static/media/logo.d949f696c26d12acfb93.png",
+    "static/media/fa-regular-400.woff2": "/Yummy-Website.git/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Yummy-Website.git/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Yummy-Website.git/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/Yummy-Website.git/index.html",
+    "main.b611a4c5.css.map": "/Yummy-Website.git/static/css/main.b611a4c5.css.map",
+    "main.44bd0a39.js.map": "/Yummy-Website.git/static/js/main.44bd0a39.js.map",
+    "787.3eecfc5e.chunk.js.map": "/Yummy-Website.git/static/js/787.3eecfc5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b611a4c5.css",
+    "static/js/main.44bd0a39.js"
+  ]
+}
